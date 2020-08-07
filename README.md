@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+TODO: read this https://nextjs.org/docs/advanced-features/preview-mode
